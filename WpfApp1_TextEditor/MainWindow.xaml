@@ -1,0 +1,49 @@
+﻿<Window x:Class="WpfApp1_TextEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1_TextEditor"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="0.8*"></RowDefinition>
+        </Grid.RowDefinitions>
+      
+            <TabControl Grid.Row="0" Height="80" VerticalAlignment="Top" Grid.ColumnSpan="2" >
+           
+                <TabItem Header="File" Foreground="Blue" FontSize="14">
+                    <StackPanel  Orientation="Horizontal">
+
+                        <Label Name="file_name" Width="350" Height="30" Margin="0,0,15,10" BorderThickness="2" BorderBrush="Blue" VerticalAlignment="Top" Content="File Name..." FontSize="10" Foreground="Black" />
+                        <Button Click="open_click" Content="Open" VerticalAlignment="Top" Width="30" Height="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="10" BorderBrush="Blue" Background="Blue" Foreground="White" ></Button>
+                    </StackPanel>
+                </TabItem>
+
+
+                <TabItem Header="Save"  Foreground="Blue" FontSize="14">
+                    <StackPanel  Orientation="Horizontal">
+                        <CheckBox Name="auto" Content="Auto Save" Margin="0,0,15,10" FontSize="15"></CheckBox>
+                        <Button Click="save_click" Content="Save" VerticalAlignment="Top" Width="30" Height="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="10" BorderBrush="Blue" Background="Blue" Foreground="White" ></Button>
+                    </StackPanel>
+                </TabItem>
+                <TabItem Header="Clipboard" Foreground="Blue" FontSize="14" Height="23" VerticalAlignment="Top">
+                    <StackPanel Orientation="Horizontal">
+                        <Button Click="cut_click" Margin="0,0,10,10" Content="Cut" VerticalAlignment="Top" Width="30" Height="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="10" BorderBrush="Blue" Background="Blue" Foreground="White" ></Button>
+                        <Button Click="copy_click" Margin="0,0,10,10" Content="Copy" VerticalAlignment="Top" Width="30" Height="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="10" BorderBrush="Blue" Background="Blue" Foreground="White" ></Button>
+                        <Button Click="paste_click" Margin="0,0,10,10" Content="Paste" VerticalAlignment="Top" Width="30" Height="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="10" BorderBrush="Blue" Background="Blue" Foreground="White" ></Button>
+                        <Button Click="all_click" Content="Select All" VerticalAlignment="Top" Width="50" Height="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="10" BorderBrush="Blue" Background="Blue" Foreground="White" ></Button>
+                    </StackPanel>
+                </TabItem>
+           
+               
+            </TabControl>
+        
+        <TextBox TextChanged="change" Padding="10,0,0,0" Name="text" Grid.Row="1" FontSize="14" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"></TextBox>
+        
+
+    </Grid>
+</Window>

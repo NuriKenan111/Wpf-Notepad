@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WpfApp1_TextEditor/1.0.0": {
+        "runtime": {
+          "WpfApp1_TextEditor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp1_TextEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

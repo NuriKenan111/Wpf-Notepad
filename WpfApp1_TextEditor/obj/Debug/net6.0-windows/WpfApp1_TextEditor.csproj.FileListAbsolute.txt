@@ -1,0 +1,40 @@
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\bin\Debug\net6.0-windows\WpfApp1_TextEditor.exe
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\bin\Debug\net6.0-windows\WpfApp1_TextEditor.deps.json
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\bin\Debug\net6.0-windows\WpfApp1_TextEditor.runtimeconfig.json
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\bin\Debug\net6.0-windows\WpfApp1_TextEditor.dll
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\bin\Debug\net6.0-windows\WpfApp1_TextEditor.pdb
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor_MarkupCompile.cache
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor_MarkupCompile.lref
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.g.resources
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.dll
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\refint\WpfApp1_TextEditor.dll
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.pdb
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\WpfApp1_TextEditor\WpfApp1_TextEditor\obj\Debug\net6.0-windows\ref\WpfApp1_TextEditor.dll
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\bin\Debug\net6.0-windows\WpfApp1_TextEditor.exe
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\bin\Debug\net6.0-windows\WpfApp1_TextEditor.deps.json
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\bin\Debug\net6.0-windows\WpfApp1_TextEditor.runtimeconfig.json
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\bin\Debug\net6.0-windows\WpfApp1_TextEditor.dll
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\bin\Debug\net6.0-windows\WpfApp1_TextEditor.pdb
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor_MarkupCompile.cache
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor_MarkupCompile.lref
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.g.resources
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.AssemblyInfoInputs.cache
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.AssemblyInfo.cs
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.dll
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\refint\WpfApp1_TextEditor.dll
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.pdb
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\WpfApp1_TextEditor.genruntimeconfig.cache
+C:\Users\Nuri\OneDrive\İş masası\wpf_TextEditor-master\WpfApp1_TextEditor\obj\Debug\net6.0-windows\ref\WpfApp1_TextEditor.dll
